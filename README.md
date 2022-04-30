@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Eren 
-- 👀 I’m interested in video games, basketball, and cyber security.
 
 - 🌱 I’m currently learning JAVA
 
