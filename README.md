@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Eren 
 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA and Pyhton
 
- -📫 How to reach me  instagram :  eren__tugcu 
+ -📫 How to reach me :   instagram :  eren__tugcu 
                       Discord : JunEscobar#6873 
 <!---
 JunEscobar/JunEscobar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
